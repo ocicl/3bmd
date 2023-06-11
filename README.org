@@ -1,0 +1,9 @@
+* 3bmd
+
+markdown processor in CL using esrap parser
+
+|---------+------------------------------------|
+| source  | git:https://github.com/3b/3bmd.git |
+| commit  | 20a53fb                            |
+| systems | 3bmd                               |
+|---------+------------------------------------|
