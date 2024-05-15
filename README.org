@@ -5,6 +5,6 @@ markdown processor in CL using esrap parser
 
 |---------+------------------------------------|
 | source  | git:https://github.com/3b/3bmd.git |
-| commit  | e68b2d4                            |
+| commit  | 0a54e65                            |
 | systems | 3bmd 3bmd-ext-code-blocks          |
 |---------+------------------------------------|
